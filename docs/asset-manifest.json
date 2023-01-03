@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee5891c0.css",
+    "main.js": "/static/js/main.f92fa206.js",
+    "static/js/522.eadb6cb8.chunk.js": "/static/js/522.eadb6cb8.chunk.js",
+    "static/media/background.jpeg": "/static/media/background.e31ea8f5661aa3a7d624.jpeg",
+    "static/media/metamask.png": "/static/media/metamask.02e3ec2750d2107176f5.png",
+    "static/media/noun_waving.svg": "/static/media/noun_waving.9300ed7a46fc09dd25c10ae0bdc4de5d.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ee5891c0.css",
+    "static/js/main.f92fa206.js"
+  ]
+}
